@@ -173,3 +173,10 @@ cleaned_merged_data.csv
 app.py
 requirements.txt
 README.md
+## Streamlit Dashboard
+
+A lightweight interactive dashboard was built using Streamlit to explore trader performance by sentiment regime.
+
+To run locally:
+
+python -m streamlit run app.py
